@@ -1,6 +1,7 @@
-{"version" : "1.0.0",
-"books":[
- {
+{"version":"1.0.0",
+ "books":
+ [
+{
   "bookNum": 0,
   "name": "100개의 달과 아기 공룡",
   "author": "이덕화 글·그림",
@@ -98,7 +99,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246352\/32463521271.20241122092420.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/86666217",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『가끔씩 나는』은 감정이란 파도가 일렁일 때 아이의 마음을 어떻게 바라보고 이해할 수 있는지를 보여주는 책입니다. 외롭고 불안한 순간도 자연스러운 감정임을 인정하며, 스스로를 다독이는 따뜻한 시선을 담고 있습니다."
  },
@@ -115,7 +116,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246038\/32460381375.20231119070846.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/72172926",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『가만히 들어주었어』는 누군가의 이야기를 조용히 들어주는 것이 얼마나 큰 위로가 되는지를 보여줍니다. 공감과 경청의 힘을 아이들의 눈높이에서 부드럽게 풀어낸 감성 그림책입니다."
  },
@@ -132,7 +133,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244214\/32442141237.20221019151356.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/53559932",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『가방 안에 든 게 뭐야?』는 친구들의 가방 속 물건을 통해 각자의 개성과 관심사를 알아가는 이야기입니다. 타인을 이해하고 존중하는 법을 유쾌하게 배울 수 있는 책입니다."
  },
@@ -149,7 +150,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244438\/32444387512.20230919125034.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/14348214",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『가족의 탄생』은 다양한 모습의 가족을 소개하며, 혈연을 넘어선 관계의 의미와 사랑을 이야기합니다. 포용과 공감의 메시지가 담긴 따뜻한 그림책입니다."
  },
@@ -166,7 +167,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243644\/32436442884.20230919124624.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/Product\/Goods\/108044681",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『간다아아!』는 아이의 생생한 상상력이 폭발하는 하루를 통해 에너지 넘치는 성장의 순간을 그립니다. 반복적이고 유쾌한 문장이 아이들의 상상력을 자극합니다."
  },
@@ -183,7 +184,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3250508\/32505087394.20241228071318.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/72150064",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『감자의 완벽한 바지』는 바지를 고르러 간 감자가 겪는 소동을 통해 자신감과 용기의 의미를 유쾌하게 전달합니다. 실수도 받아들이며 성장하는 모습이 웃음을 자아내고, 감정의 흐름이 섬세하게 표현된 그림책입니다."
  },
@@ -200,7 +201,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243600\/32436002917.20230912083435.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/15320",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『강아지똥』은 버려진 강아지똥이 자신의 존재 가치를 깨닫는 과정을 그린 감동적인 이야기입니다. 작은 존재도 세상에 쓸모 있다는 메시지를 담고 있으며, 깊은 여운과 눈물을 자아냅니다."
  },
@@ -217,7 +218,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245592\/32455929676.20240704093115.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/86540939",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『같은 시간 다른 우리』는 세계 곳곳의 아이들이 같은 시간에 어떤 하루를 보내는지 보여줍니다. 시간과 공간을 초월한 공감과 다양성의 가치를 알려주는 책입니다."
  },
@@ -234,7 +235,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246325\/32463251888.20250715072144.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/2149580",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『개미나라에 간 루카스』는 장난꾸러기 소년이 개미만큼 작아져서 벌어지는 모험을 통해 생태계의 질서와 협동의 중요성을 배우는 이야기입니다. 유쾌한 상상력과 생생한 교훈이 담긴 책입니다."
  },
@@ -251,7 +252,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243601\/32436010670.20230502163655.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/103450981",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『개울개울 징검다리』는 조용한 시골 개울을 배경으로 자연과 사람의 연결을 그려낸 서정적인 그림책입니다. 계절의 변화와 일상의 아름다움을 잔잔하게 표현하며 마음을 따뜻하게 해줍니다."
  },
@@ -268,7 +269,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3427528\/34275282642.20230919123503.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/112233831",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『거북이자리』는 세상과 느리게 소통하는 한 아이가 별자리처럼 자신의 속도를 찾아가는 이야기입니다. 거북이의 걸음처럼 천천히, 그러나 자기만의 길을 가는 주인공의 모습이 깊은 여운을 남깁니다."
  },
@@ -285,7 +286,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244161\/32441613209.20250625102412.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/4722274",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『거짓말 같은 이야기』는 말도 안 되는 상상이 현실처럼 펼쳐지는 이야기 속에서 진실과 허구의 경계를 탐색합니다. 아이의 엉뚱한 상상력이 유쾌하게 전개되며 창의력을 자극합니다."
  },
@@ -302,7 +303,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3247427\/32474274734.20230815080549.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/102718423",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『건전지 아빠』는 늘 바쁜 아빠가 어느 날 에너지가 다 떨어지자 진짜 휴식을 통해 가족과 연결되는 이야기를 담고 있습니다. 웃음과 감동이 함께하며, 진짜 충전은 사랑이라는 메시지를 전합니다."
  },
@@ -319,7 +320,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3248036\/32480361940.20230620095939.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/109145432",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『걷는 사이』는 단순한 산책이 어떻게 특별한 시간이 되는지를 섬세하게 담아냅니다. 누군가와 걷는 동안 피어나는 대화와 정서적 교감이 따뜻하게 느껴지는 그림책입니다."
  },
@@ -336,7 +337,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244102\/32441020233.20241122071507.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/59311995",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『검은 강아지』는 두려움이라는 감정을 검은 강아지로 형상화해, 그것을 마주하고 이겨내는 아이의 용기를 그립니다. 두려움을 극복하는 과정이 감동적으로 그려진 심리 동화입니다."
  },
@@ -353,7 +354,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3362308\/33623086621.20230711113059.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/110870434",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『겁이 나는 건 당연해』는 두려움이라는 감정을 숨기지 않고 인정하며, 그 안에서 용기를 찾아가는 과정을 보여줍니다. 감정을 있는 그대로 받아들이는 태도를 따뜻하게 담아낸 그림책입니다."
  },
@@ -370,7 +371,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246695\/32466952746.20241203084412.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/2145281",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『겁쟁이 빌리』는 상상 속 괴물들 때문에 두려움을 느끼던 빌리가 자신만의 방식으로 불안을 이겨내는 이야기입니다. 유머와 상상력이 어우러진 책으로, 어린이의 마음에 큰 용기를 줍니다."
  },
@@ -387,7 +388,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3410246\/34102463625.20230927071543.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/112012069",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『게임하고 싶어!』는 게임을 좋아하는 아이가 현실에서 친구들과 어울리는 재미를 다시 발견해가는 이야기입니다. 균형 잡힌 놀이와 소통의 가치를 자연스럽게 전달합니다."
  },
@@ -404,7 +405,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245527\/32455276692.20230110170109.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/105776481",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『겨울 해 질 녘』은 눈 내리는 겨울 저녁의 조용하고 포근한 풍경을 담은 감성적인 그림책입니다. 하루의 끝자락에서 느끼는 따뜻한 여운과 자연의 고요함이 아름답게 표현되어 있습니다."
  },
@@ -421,7 +422,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246668\/32466684980.20231004072441.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/36452643",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『고구마구마』는 말장난 같은 유쾌한 언어 유희로 가득한 이야기입니다. 고구마 캐기를 중심으로 펼쳐지는 반복적이고 리듬감 있는 문장이 아이들의 흥미를 끌고, 웃음을 유발합니다."
  },
@@ -438,7 +439,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249219\/32492195074.20230926085047.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/104197188",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『고구마유』는 고구마를 둘러싼 재치 있는 말장난과 유쾌한 상상이 가득한 그림책입니다. 단순한 일상 속에서 웃음을 만들어내는 기발한 시선이 돋보이며, 어린이의 언어 감각을 자극합니다."
  },
@@ -455,7 +456,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245602\/32456021713.20230313183816.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/7749",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『고릴라』는 외로움을 느끼던 소녀가 꿈속에서 고릴라와 모험을 떠나는 이야기를 통해 가족 간의 소통과 사랑을 따뜻하게 그려냅니다. 상상과 현실이 어우러진 아름다운 이야기입니다."
  },
@@ -472,7 +473,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3437498\/34374986618.20221019120142.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/112350962",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『고마워요, 중장비차』는 하루 종일 열심히 일한 중장비차들의 하루를 마무리하며 감사를 전하는 이야기입니다. 노동과 쉼, 협력의 소중함을 따뜻하게 전하는 수면 그림책입니다."
  },
@@ -489,7 +490,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249689\/32496892303.20240618090308.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/89642012",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『고민 해결사 펭귄 선생님』은 다양한 동물들의 고민을 들어주고 현명하게 조언하는 펭귄 선생님의 이야기로, 공감과 소통의 중요성을 유쾌하게 전합니다."
  },
@@ -506,7 +507,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244214\/32442141618.20230919125812.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/108198733",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『공 좀 주워 주세요』는 우연히 시작된 공 하나가 연결고리가 되어 펼쳐지는 이웃 간의 따뜻한 소통을 그립니다. 일상 속에서 발견하는 배려와 친절의 가치를 전하는 책입니다."
  },
@@ -523,7 +524,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246683\/32466833121.20230214163832.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/80773800",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『괜찮아, 방법이 있어』는 문제 상황에서도 긍정적인 자세로 해결책을 찾아가는 이야기입니다. 아이들에게 스스로 문제를 풀어가는 힘과 자신감을 길러주는 책입니다."
  },
@@ -540,7 +541,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244521\/32445217480.20230905101400.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/35215964",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『괜찮아 아저씨』는 남들과는 조금 다른 아저씨의 일상을 통해 다름을 인정하고 존중하는 마음을 키워줍니다. 다양성과 포용의 중요성을 따뜻하게 전하는 그림책입니다."
  },
@@ -557,7 +558,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3252643\/32526430414.20231214075948.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/86017817",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『괜찮을 거야』는 불안한 감정을 겪는 아이에게 괜찮다고 다정히 말해주는 이야기입니다. 다정한 말 한마디가 얼마나 큰 위로가 되는지를 보여주는 위안의 메시지를 담고 있습니다."
  },
@@ -574,7 +575,7 @@
   "imageUrl": "https:\/\/search.pstatic.net\/common\/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA2MTBfOCAg%2FMDAxNjg2MzkyNjQwMjQ3.e_5YaIpqPwxonGl4r-9y3gKnX4AD0j9N1b6PcYZ6m7og.EuoH9BLzH2GR_Df2wcuuVN6ozZTMFyzX3OiUldztD5wg.JPEG.zzloveyou%2FIMG%25A3%25DF20230610%25A3%25DF192151%25A3%25DF693.jpg&type=sc960_832",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/325532",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『괴물들이 사는 나라』는 말썽꾸러기 소년이 상상 속 괴물 나라로 떠나면서 감정을 해소하고 성장해가는 이야기입니다. 상상력과 감정 조절의 힘을 절묘하게 녹여낸 고전 명작입니다."
  },
@@ -591,7 +592,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3248651\/32486519061.20230725115851.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/47244590",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『구덩이』는 억울하게 소년원이 된 주인공이 진실을 밝히기 위해 모험을 겪으며 성장하는 이야기입니다. 사회의 부조리와 연대의 중요성을 담은 강렬한 청소년 소설입니다."
  },
@@ -608,7 +609,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249209\/32492097711.20221019123142.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/32482210",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『구두전쟁』은 신발을 둘러싼 나라들의 다툼을 유쾌하게 풍자한 이야기입니다. 작은 차이가 큰 갈등으로 번지는 사회의 모습을 아이 눈높이로 풀어내며, 다양성과 타협의 중요성을 배울 수 있어 꼭 읽어볼 만한 책입니다."
  },
@@ -625,7 +626,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245554\/32455548170.20230328162019.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/89381473",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『구름빵』은 하늘을 나는 빵을 만들어 아빠를 회사에 지각하지 않게 도와주는 아이들의 이야기입니다. 상상력 가득한 전개와 따뜻한 가족애가 어우러져 아이들의 창의력을 키워주는 책이에요."
  },
@@ -642,7 +643,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249271\/32492717909.20230920071247.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/5099766",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『국숫발, 쪽 후루룩』은 국수를 만들고 먹는 과정을 통해 음식의 정성과 가족의 소중함을 전하는 이야기입니다. 음식에 담긴 정을 느끼고, 함께 먹는 즐거움의 가치를 깨닫게 해주는 따뜻한 그림책입니다."
  },
@@ -659,7 +660,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3248509\/32485094283.20250402071826.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/77670134",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『굴뚝 이야기』는 굴뚝 청소부 아이의 시선을 통해 당시 아이들의 삶과 노동을 섬세하게 그려냅니다. 사회적 약자에 대한 이해와 연민을 키워주며, 역사적 배경에 대한 교육적 가치를 지닌 책입니다."
  },
@@ -676,7 +677,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249330\/32493305658.20221230073036.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/95275853",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『굿나잇, 플래닛』은 인형 토끼 '플래닛'의 밤 모험을 통해 상상력과 탐험의 기쁨을 전합니다. 낮과는 다른 세계를 경험하며 스스로 자립해가는 모습을 통해 아이들에게 새로운 시각을 선사합니다."
  },
@@ -693,7 +694,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245560\/32455606802.20230606101931.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/69476105",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『궁디팡팡』은 반려동물과 주인 사이의 따뜻한 애정을 유쾌하게 그려낸 이야기입니다. 익살스러운 그림과 반복되는 표현이 재미를 더하며, 동물과의 교감을 느낄 수 있어 반려동물을 사랑하는 아이들에게 추천합니다."
  },
@@ -710,7 +711,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246680\/32466807380.20250603080616.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/91748467",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그나저나 네 동생은 어딨니?』는 형제 사이의 갈등과 애정을 익살스럽게 표현한 이야기로, 형제 자매 간의 이해와 책임감을 배울 수 있습니다. 현실적인 공감 요소가 가득한 책이에요."
  },
@@ -727,7 +728,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249217\/32492174199.20250410092338.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/57241012",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그냥 놀았어』는 어른 눈에는 사고 같지만, 아이들 눈에는 창의적인 놀이였던 하루를 보여줍니다. 아이의 시선에서 세상을 바라보며 창의력과 자율성의 중요성을 일깨우는 책입니다."
  },
@@ -744,7 +745,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3389184\/33891843621.20230328164448.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/111417837",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그네』는 잔잔한 자연과 아이의 감성이 조화를 이루는 이야기로, 감정의 흐름을 시처럼 그려냅니다. 마음이 차분해지는 문장과 그림이 인상적이며, 마음을 쉬게 해주는 그림책입니다."
  },
@@ -761,7 +762,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3247507\/32475073135.20230718121312.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/106178645",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그래도 꼭 해 볼 거야!』는 실패를 두려워하지 않고 도전하는 주인공의 모습을 통해 끈기와 용기를 전합니다. 처음부터 잘하지 않아도 된다는 위로와 격려가 필요한 아이에게 꼭 권하고 싶은 책입니다."
  },
@@ -778,7 +779,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243819\/32438193627.20230801121821.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/4698450",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그래, 책이야!』는 책을 읽는 즐거움을 다시 일깨워주는 유쾌한 이야기입니다. 디지털 기기에 지친 아이들에게 책의 매력을 자연스럽게 알려주며, 유머와 함께 독서의 가치를 깨닫게 해줍니다. 책을 사랑하게 만드는 마법 같은 책이에요!"
  },
@@ -795,7 +796,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245193\/32451932655.20250606090523.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/9086208",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그럴 때가 있어』는 아이의 다양한 감정 변화를 따뜻하게 공감하며 그려낸 그림책입니다. 기분이 오락가락할 때가 있는 건 너무나 자연스러운 일임을 알려줘서, 정서 발달에 꼭 필요한 이야기입니다."
  },
@@ -812,7 +813,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243623\/32436237249.20240604081438.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/60605145",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『그린피스의 집』은 환경 보호를 위해 고군분투하는 고양이 그린피스의 이야기를 통해, 지구를 위한 작은 실천이 얼마나 소중한지를 보여줍니다. 기발한 상상력과 친환경 메시지가 어우러진 창의적 동화입니다."
  },
@@ -829,7 +830,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244494\/32444946773.20230627101830.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/15126847",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『근사한 우리 가족』은 평범하지만 특별한 가족의 모습을 유쾌하게 그려낸 이야기입니다. 서로 다른 개성이 모여 만들어내는 따뜻함과 유대감을 통해 가족의 소중함을 다시금 느끼게 합니다."
  },
@@ -846,7 +847,7 @@
   "imageUrl": "https:\/\/search.pstatic.net\/common\/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAzMDVfMTYx%2FMDAxNTIwMjM4MzI1NDI3.7RGxKXAWA7JC-Gcy1cLzmuLnOcD_WRZgJGYErnN6gM4g.GhN9O6anyipnNsy0NMlvcFHBlMNf615bwudm9TCB2i4g.PNG.bookforest001%2Fnoname01.png&type=sc960_832",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/59101718",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『글자가 다 어디에 숨었지?』는 사라진 글자들을 찾아 떠나는 기발한 모험을 통해 언어의 재미를 알려줍니다. 놀이처럼 읽히는 이 책은 아이들의 상상력과 어휘력을 동시에 키워주는 보물 같은 그림책이에요."
  },
@@ -863,7 +864,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243604\/32436044660.20250327071535.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/140082446",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『글자 먹는 악어』는 책 속 글자를 하나씩 삼켜버리는 악어의 유쾌한 장난을 통해, 글자의 소중함과 독서의 즐거움을 일깨워줍니다. 웃음과 상상력이 넘치는 전개로 아이들의 책 사랑을 키워주는 창의적인 책이에요."
  },
@@ -880,7 +881,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249536\/32495362669.20230927071500.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/92079287",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『금요일엔 언제나』는 아이에게 특별한 하루인 금요일을 중심으로 가족과의 소소한 일상을 따뜻하게 그려냅니다. 반복되는 일상 속에서도 설렘을 느끼게 해주는 이 책은 행복을 발견하는 감성 그림책입니다."
  },
@@ -897,7 +898,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244094\/32440948977.20250403094130.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/5382110",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『기분을 말해 봐!』는 다양한 감정을 소개하며 아이가 자신의 마음을 이해하고 표현할 수 있도록 도와주는 책입니다. 감정 교육의 시작점으로 활용하기 좋은 꼭 필요한 그림책입니다."
  },
@@ -914,7 +915,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3247333\/32473330306.20230913071442.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/1953821",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『길 아저씨 손 아저씨』는 두 아저씨의 협업과 따뜻한 관계를 통해 일의 가치와 도움을 주고받는 기쁨을 전합니다. 아이들에게 협력의 중요성과 일하는 사람들의 소중함을 알려주는 이야기입니다."
  },
@@ -931,7 +932,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3248148\/32481483066.20221019113842.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/103413491",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『길어도 너무 긴』은 지나치게 길어진 물건들이 벌이는 좌충우돌 소동 속에서 유쾌한 상상력을 선사합니다. 일상의 틀을 깨고 생각의 폭을 넓혀주는 기발한 이야기가 가득한 책입니다."
  },
@@ -948,7 +949,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3250467\/32504675900.20230711115315.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/2149580",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『깊은 밤 부엌에서』는 잠든 아이가 부엌에서 펼치는 환상적인 베이킹 모험을 통해 꿈과 현실이 교차하는 세계를 보여줍니다. 모리스 센닥 특유의 섬세한 그림과 기발한 상상력으로 아이들의 상상 세계를 자극하며, 어른에게도 깊은 여운을 남깁니다."
  },
@@ -965,7 +966,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3253018\/32530184526.20240228093955.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/20300701",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『까르르 깔깔』은 아이들의 웃음소리가 가득한 장면들을 통해 일상의 즐거움과 유쾌함을 전합니다. 단순한 구조 속에서도 감정을 끌어내는 리듬감 있는 문장이 특히 인상적이며, 어린이의 순수한 웃음을 소중하게 느끼게 해줍니다."
  },
@@ -982,7 +983,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3249081\/32490810932.20221019152459.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/56794426",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『까마귀가 친구하자 한다고?』는 편견과 두려움을 극복하고 진짜 친구가 되어가는 과정을 그린 이야기입니다. 생김새나 소문이 아닌 진심을 알아보는 법을 배우게 해주는, 관계 맺기의 중요성을 담은 책입니다."
  },
@@ -999,7 +1000,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3247847\/32478478212.20230706083539.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/9483107",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『까만토끼』는 외로움과 불안이라는 감정을 상징적인 캐릭터로 표현하며, 스스로 위로하고 이겨내는 과정을 그려냅니다. 감정의 그림자를 마주하고 극복해가는 이야기가 깊은 감동을 줍니다."
  },
@@ -1016,7 +1017,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3246707\/32467076635.20230926085215.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/18543868",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『까불지 마!』는 장난기 많은 아이와 엄마의 실랑이를 통해 아이들의 천진난만함과 부모의 사랑을 유쾌하게 그려냅니다. 익살스러운 그림과 반복되는 대사가 읽는 재미를 더해줍니다."
  },
@@ -1033,7 +1034,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3244069\/32440691301.20230313184823.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/104193445",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『깜깜하지 않은 밤에』는 어둠에 대한 두려움을 새로운 시각으로 바라보게 해주는 그림책입니다. 밤이 무서운 아이들에게 친숙한 감정을 다정하게 어루만지며, 용기와 위안을 전해줍니다."
  },
@@ -1050,7 +1051,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3248148\/32481483270.20230523145045.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/93528296",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『껌』은 바닥에 붙은 껌의 시선으로 세상을 바라보는 독특한 이야기입니다. 아무도 주목하지 않는 존재에도 이야기가 있다는 사실을 깨닫게 해주는 기발한 상상력이 돋보이는 책입니다."
  },
@@ -1067,7 +1068,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243611\/32436116270.20221019145330.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/5187742",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『꼬르륵』은 배고픔이라는 원초적인 감정을 유쾌하고 따뜻하게 풀어낸 이야기입니다. 배에서 나는 '꼬르륵' 소리조차 사랑스럽게 그려내며, 소소한 일상에도 웃음과 감동이 있다는 것을 알려줍니다."
  },
@@ -1084,7 +1085,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3245789\/32457894688.20230627104516.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/4401048",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『꼬마 다람쥐 얼』은 세상의 모든 것이 낯선 꼬마 다람쥐의 모험을 담아내며, 성장과 적응, 용기의 메시지를 전합니다. 자연 속의 따뜻한 우정과 배려를 통해 어린이들에게 삶의 지혜를 전해주는 책입니다."
  },
@@ -1101,7 +1102,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3243957\/32439574958.20230926084637.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/29126701",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『꽁꽁꽁』은 추운 겨울날의 풍경과 감각을 반복적이고 리듬감 있는 언어로 표현한 그림책입니다. 언어의 소리와 리듬을 통해 계절의 감성을 오감으로 느낄 수 있어, 유아 언어 교육에도 좋은 책입니다."
  },
@@ -1118,7 +1119,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3347481\/33474812622.20230919124414.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/110657710",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『꽁꽁꽁 아이스크림』은 아이스크림이 녹아버릴까 걱정하며 벌어지는 좌충우돌 여정을 통해 인내와 즐거움의 의미를 되새기게 합니다. 유쾌한 그림과 긴장감 넘치는 전개가 재미를 더하며, 기다림의 가치를 자연스럽게 배울 수 있는 책이에요."
  },
@@ -1135,7 +1136,7 @@
   "imageUrl": "https:\/\/shopping-phinf.pstatic.net\/main_3250532\/32505326337.20230913071302.jpg",
   "content": "없음",
   "readingDate": "2099.1.1.",
-  "private_link": "없음",
+  "private_link": "https:\/\/www.yes24.com\/product\/goods\/34695565",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『꽃에서 나온 코끼리』는 상상 속에서 피어난 코끼리가 아이와 함께 모험을 떠나는 따뜻한 이야기입니다. 환상과 현실의 경계를 넘나들며 상상력의 아름다움을 일깨워주는 그림책입니다."
  },
@@ -8499,5 +8500,5 @@
   "private_link": "없음",
   "library_link": "https:\/\/www.gwangjinlib.seoul.kr\/gjinfo\/index.do",
   "summary": "『넌 왜 꽃 안 펴?』는 다른 꽃들과 달리 피지 않는 한 꽃이 스스로의 리듬을 찾으며 자신의 때를 기다리는 과정을 담고 있어요. 다름을 인정하고 자신의 속도대로 살아가는 것이 얼마나 중요한지를 조용히 전해주는 책입니다. 자존감과 자기 수용을 배우기에 적절한 그림책입니다."
+ }]
  }
-]}
